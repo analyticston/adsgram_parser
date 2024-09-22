@@ -19,9 +19,9 @@
 ## Installing the code:
 #### 1. Download the repository and install requirements:
 ```sh
-git clone https://github.com/czbag/starknet.git
+git clone https://github.com/analyticston/adsgram_parser.git
 
-cd starknet
+cd adsgram_parser
 
 pip install -r requirements.txt
 
