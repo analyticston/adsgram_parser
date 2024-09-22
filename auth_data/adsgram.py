@@ -1,0 +1,2 @@
+login =     'YOUR_ADSGRAM_LOGIN'
+password =  'YOUR_ADSGRAM_PASSWORD'
