@@ -83,5 +83,5 @@ python main.py
 ```
 
 [//]: # 
-   [@anmendel]: <https://t.me/anmendelr>
+   [@anmendel]: <https://t.me/anmendel>
    [@BotFather]: <https://t.me/BotFather>
